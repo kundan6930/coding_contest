@@ -1,0 +1,1 @@
+{"name":"Local: aa","url":"e:\\c++ course\\atcoder\\AtCoder Beginner Contest 322\\aa.cpp","tests":[{"id":1696256804665,"input":"1\n5\n3 8 7 6 4","output":"2"},{"id":1696256834203,"input":"1\n6\n3 9 7 6 5 2","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ course\\atcoder\\AtCoder Beginner Contest 322\\aa.cpp","group":"local","local":true}

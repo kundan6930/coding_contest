@@ -1,0 +1,1 @@
+{"name":"Local: book_shop_bootum_up","url":"e:\\c++ course\\cses problem set\\Dynamic Programming\\book_shop_bootum_up.cpp","tests":[{"id":1681974991400,"input":"4 10\n4 8 5 3\n5 12 8 1","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ course\\cses problem set\\Dynamic Programming\\book_shop_bootum_up.cpp","group":"local","local":true}

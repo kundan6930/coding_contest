@@ -1,0 +1,1 @@
+{"name":"Local: smallest_prime_factor_1_to_n","url":"e:\\c++ course\\cp cheat code\\smallest_prime_factor_1_to_n.cpp","tests":[{"id":1685531137932,"input":"5\n12 \n34 \n2\n45\n67","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ course\\cp cheat code\\smallest_prime_factor_1_to_n.cpp","group":"local","local":true}
