@@ -1,0 +1,1 @@
+{"name":"Local: dfh","url":"e:\\c++ course\\july_curcuit 23\\dfh.cpp","tests":[{"id":1689711012986,"input":"3\n4 4\n-2 -5 -3 4\n5 14\n-5 2 -4 3 -3\n6 14\n-3 -5 1 1 -7 2","output":"1\n-1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ course\\july_curcuit 23\\dfh.cpp","group":"local","local":true}

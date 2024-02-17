@@ -1,0 +1,31 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main ()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    { 
+      int a,b;
+      cin>>a>>b;
+      int x=100-a;
+      int y=200-2*b;
+       
+       
+       if(x==y)
+       {
+       cout<<"both"<<endl;
+       }
+       else if(x<y)
+       {
+        cout<<"first"<<endl;
+       }
+       else{
+        cout<<"second"<<endl;
+       }
+        
+    }
+    return 0;
+    }
+    

@@ -1,0 +1,1 @@
+{"name":"Local: frog_freddy","url":"e:\\c++ course\\cses problem set\\frog_freddy.cpp","tests":[{"id":1681706541127,"input":"7 5\nACABB\n5 6\n4 9\n4 13\n1 10\n7 4\n10 9\n3 7","output":"7 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ course\\cses problem set\\frog_freddy.cpp","group":"local","local":true}
